@@ -1,0 +1,23 @@
+{
+  "name": "mobilfirst",
+  "version": "1.0.0",
+  "description": "webPractica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riosfranklin/mobilFirst.git"
+  },
+  "author": "riosfranklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riosfranklin/mobilFirst/issues"
+  },
+  "homepage": "https://github.com/riosfranklin/mobilFirst#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
